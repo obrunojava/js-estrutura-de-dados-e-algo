@@ -2,8 +2,8 @@
  
  
  ### Capitulos e andamento dos estudos
-- Capítulo 1: recap de javascript e suas ultimas atualizações [atual]
-- Cap 2: Visão geral cobre a ECMScript e Typescript 
+- Capítulo 1: recap de javascript e suas ultimas atualizações 
+- Cap 2: Visão geral cobre a ECMScript e Typescript [atual]
 - Cap 3: Arrays
 - Cap 4: Pilhas
 - Cap 5: Filas e Deques
